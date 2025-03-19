@@ -1,1 +1,2 @@
 # agiletrack
+The Agile Track System is a React-based app designed to make agile project management smoother. It helps teams track tasks, collaborate effectively, and stay on top of their progress. With secure logins and role-based access, users can manage tasks, update statuses, and get real-time insights. Admins can assign and monitor work, while built-in analytics provide useful reports to improve team performance. The goal is to keep everything organized, boost productivity, and help teams hit their project goals efficiently.
